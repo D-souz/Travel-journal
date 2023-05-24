@@ -1,6 +1,8 @@
+
 export default [
     {
         // for japan
+        id: 1,
         coverImg: "https://source.unsplash.com/WLxQvbMyfas",
         country: "JAPAN",
         location: "Mount Fuji",
@@ -10,6 +12,7 @@ export default [
     },
     {
         // for Australia
+        id: 2,
         coverImg:"https://source.unsplash.com/JmuyB_LibRo",
         country: "AUSTRALIA",
         location: "Sydney Opera House",
@@ -19,6 +22,7 @@ export default [
     },
     {
         // for Norway
+        id: 3,
         coverImg: "https://source.unsplash.com/3PeSjpLVtLg",
         country: "NORWAY",
         location: "Geirangerfjord",
